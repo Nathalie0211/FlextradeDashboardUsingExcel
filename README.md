@@ -67,11 +67,11 @@ FlexTrade is a leading e-commerce platform offering a wide range of products, fr
   - Enhance app stability to prevent crashes.
 
 ## Action Plans
-✔ Enhance UX Design – Improve layout, speed, and usability.
-✔ Optimize Checkout Process – Reduce steps and provide seamless payment options.
-✔ Use Data-Driven Marketing – Personalize campaigns and retarget users effectively.
-✔ Prioritize Customer Support – Ensure quick resolutions and proactive engagement.
-✔ Leverage Positive Feedback – Amplify strengths while addressing weaknesses.
+- Enhance UX Design – Improve layout, speed, and usability.
+- Optimize Checkout Process – Reduce steps and provide seamless payment options.
+- Use Data-Driven Marketing – Personalize campaigns and retarget users effectively.
+- Prioritize Customer Support – Ensure quick resolutions and proactive engagement.
+- Leverage Positive Feedback – Amplify strengths while addressing weaknesses.
 
 ## Conclusion
 By tackling UX issues and implementing these data-backed recommendations, FlexTrade can significantly enhance user satisfaction, increase sales, and strengthen its position in the e-commerce market. The insights derived from this study will help in creating a seamless, engaging, and profitable shopping experience.
